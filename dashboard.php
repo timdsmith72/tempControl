@@ -155,7 +155,7 @@ function drawChart() {
 </head>
    <body>
    <div align="center">
-      <H1 align="center">Nut Haus Brewing</H1>
+      <H1 align="center">Your page Heading</H1>
       <form action="postSetTemp.php" method="GET">
       <p align="center">Set Temp:  <input type="text" name="setTemp" /><br /></p>
       <p align="center"><input type="submit" value="Set"></p>
